@@ -1,1 +1,1 @@
-## This is a copy of the project, it which needs some other photos.
+## This is a copy of the project, it needs some other photos.
